@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/113/tags/version-1.0/src/main/java/com/librarymanagement/application/commands
+END
+RegisterBookCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/113/tags/version-1.0/src/main/java/com/librarymanagement/application/commands/RegisterBookCommand.java
+END
+PurchaseBookCopiesCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/113/tags/version-1.0/src/main/java/com/librarymanagement/application/commands/PurchaseBookCopiesCommand.java
+END
+SellBookCopiesCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/113/tags/version-1.0/src/main/java/com/librarymanagement/application/commands/SellBookCopiesCommand.java
+END
+IssueBooksCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/113/tags/version-1.0/src/main/java/com/librarymanagement/application/commands/IssueBooksCommand.java
+END
+UpdateBookCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/113/tags/version-1.0/src/main/java/com/librarymanagement/application/commands/UpdateBookCommand.java
+END
+ReturnBooksCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/113/tags/version-1.0/src/main/java/com/librarymanagement/application/commands/ReturnBooksCommand.java
+END

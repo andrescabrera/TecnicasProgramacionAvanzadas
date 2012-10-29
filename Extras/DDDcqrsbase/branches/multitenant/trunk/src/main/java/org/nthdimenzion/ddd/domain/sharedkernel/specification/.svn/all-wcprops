@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/111/branches/multitenant/trunk/src/main/java/org/nthdimenzion/ddd/domain/sharedkernel/specification
+END
+OrSpecification.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/111/branches/multitenant/trunk/src/main/java/org/nthdimenzion/ddd/domain/sharedkernel/specification/OrSpecification.java
+END
+NotSpecification.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/111/branches/multitenant/trunk/src/main/java/org/nthdimenzion/ddd/domain/sharedkernel/specification/NotSpecification.java
+END
+ConjunctionSpecification.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/111/branches/multitenant/trunk/src/main/java/org/nthdimenzion/ddd/domain/sharedkernel/specification/ConjunctionSpecification.java
+END
+CompositeSpecification.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/111/branches/multitenant/trunk/src/main/java/org/nthdimenzion/ddd/domain/sharedkernel/specification/CompositeSpecification.java
+END
+AndSpecification.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/111/branches/multitenant/trunk/src/main/java/org/nthdimenzion/ddd/domain/sharedkernel/specification/AndSpecification.java
+END
+ISpecification.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/111/branches/multitenant/trunk/src/main/java/org/nthdimenzion/ddd/domain/sharedkernel/specification/ISpecification.java
+END
+DisjunctionSpecification.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/111/branches/multitenant/trunk/src/main/java/org/nthdimenzion/ddd/domain/sharedkernel/specification/DisjunctionSpecification.java
+END

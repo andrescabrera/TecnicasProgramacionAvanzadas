@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/115/branches/multitenant/trunk/src/main/java/org/nthdimenzion/ddd/domain
+END
+BaseAggregateRoot.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/111/branches/multitenant/trunk/src/main/java/org/nthdimenzion/ddd/domain/BaseAggregateRoot.java
+END
+INamed.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/111/branches/multitenant/trunk/src/main/java/org/nthdimenzion/ddd/domain/INamed.java
+END
+IDomainEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/111/branches/multitenant/trunk/src/main/java/org/nthdimenzion/ddd/domain/IDomainEvent.java
+END
+IdGeneratingArcheType.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/111/branches/multitenant/trunk/src/main/java/org/nthdimenzion/ddd/domain/IdGeneratingArcheType.java
+END
+ITenantAware.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/115/branches/multitenant/trunk/src/main/java/org/nthdimenzion/ddd/domain/ITenantAware.java
+END
+LifeCycle.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/111/branches/multitenant/trunk/src/main/java/org/nthdimenzion/ddd/domain/LifeCycle.java
+END
+BaseArchetype.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/111/branches/multitenant/trunk/src/main/java/org/nthdimenzion/ddd/domain/BaseArchetype.java
+END
+Interval.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/111/branches/multitenant/trunk/src/main/java/org/nthdimenzion/ddd/domain/Interval.java
+END
+IPersistable.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/111/branches/multitenant/trunk/src/main/java/org/nthdimenzion/ddd/domain/IPersistable.java
+END
+AbstractDomainFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/111/branches/multitenant/trunk/src/main/java/org/nthdimenzion/ddd/domain/AbstractDomainFactory.java
+END
+IEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/111/branches/multitenant/trunk/src/main/java/org/nthdimenzion/ddd/domain/IEvent.java
+END

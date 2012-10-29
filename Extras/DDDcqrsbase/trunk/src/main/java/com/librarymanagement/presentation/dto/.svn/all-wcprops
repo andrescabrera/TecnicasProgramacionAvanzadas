@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/100/trunk/src/main/java/com/librarymanagement/presentation/dto
+END
+BookDetailsDto.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/100/trunk/src/main/java/com/librarymanagement/presentation/dto/BookDetailsDto.java
+END
+MemberDto.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/99/trunk/src/main/java/com/librarymanagement/presentation/dto/MemberDto.java
+END
+LibrarySummaryDto.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/98/trunk/src/main/java/com/librarymanagement/presentation/dto/LibrarySummaryDto.java
+END

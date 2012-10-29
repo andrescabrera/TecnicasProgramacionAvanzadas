@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/3/trunk/CarterasDDD/src/main/java/es/ddd/carteras/infraestructura
+END
+RepositorioDeAccionesJPA.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/3/trunk/CarterasDDD/src/main/java/es/ddd/carteras/infraestructura/RepositorioDeAccionesJPA.java
+END
+RepositorioDeEntidadesFinancierasJPA.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/3/trunk/CarterasDDD/src/main/java/es/ddd/carteras/infraestructura/RepositorioDeEntidadesFinancierasJPA.java
+END
+EntidadFinancieraDS.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/3/trunk/CarterasDDD/src/main/java/es/ddd/carteras/infraestructura/EntidadFinancieraDS.java
+END
+AccionDS.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/3/trunk/CarterasDDD/src/main/java/es/ddd/carteras/infraestructura/AccionDS.java
+END
+RepositorioDeCarterasJPA.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/3/trunk/CarterasDDD/src/main/java/es/ddd/carteras/infraestructura/RepositorioDeCarterasJPA.java
+END
+CarteraDS.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/3/trunk/CarterasDDD/src/main/java/es/ddd/carteras/infraestructura/CarteraDS.java
+END
+InversionDS.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/3/trunk/CarterasDDD/src/main/java/es/ddd/carteras/infraestructura/InversionDS.java
+END

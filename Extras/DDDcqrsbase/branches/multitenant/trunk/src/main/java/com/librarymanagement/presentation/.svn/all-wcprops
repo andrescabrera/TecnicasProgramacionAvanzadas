@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/142/branches/multitenant/trunk/src/main/java/com/librarymanagement/presentation
+END
+MembersHoldingBooksComposer.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/142/branches/multitenant/trunk/src/main/java/com/librarymanagement/presentation/MembersHoldingBooksComposer.java
+END
+MemberManagementComposer.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/135/branches/multitenant/trunk/src/main/java/com/librarymanagement/presentation/MemberManagementComposer.java
+END
+RegisterBookComposer.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/135/branches/multitenant/trunk/src/main/java/com/librarymanagement/presentation/RegisterBookComposer.java
+END
+LibraryHomeComposer.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/111/branches/multitenant/trunk/src/main/java/com/librarymanagement/presentation/LibraryHomeComposer.java
+END
+BookListComposer.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/111/branches/multitenant/trunk/src/main/java/com/librarymanagement/presentation/BookListComposer.java
+END
+BookTransactionComposer.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/135/branches/multitenant/trunk/src/main/java/com/librarymanagement/presentation/BookTransactionComposer.java
+END
+TransferBookComposer.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/135/branches/multitenant/trunk/src/main/java/com/librarymanagement/presentation/TransferBookComposer.java
+END
+MemberRegistrationComposer.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/136/branches/multitenant/trunk/src/main/java/com/librarymanagement/presentation/MemberRegistrationComposer.java
+END

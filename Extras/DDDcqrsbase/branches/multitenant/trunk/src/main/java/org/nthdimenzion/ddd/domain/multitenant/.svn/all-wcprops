@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/115/branches/multitenant/trunk/src/main/java/org/nthdimenzion/ddd/domain/multitenant
+END
+Tenant.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/115/branches/multitenant/trunk/src/main/java/org/nthdimenzion/ddd/domain/multitenant/Tenant.java
+END
+TenantCustomisationDetails.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/115/branches/multitenant/trunk/src/main/java/org/nthdimenzion/ddd/domain/multitenant/TenantCustomisationDetails.java
+END

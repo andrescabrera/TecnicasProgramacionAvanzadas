@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/113/tags/version-1.0/src/main/java/org/nthdimenzion/ddd/domain/annotations
+END
+ValueObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/113/tags/version-1.0/src/main/java/org/nthdimenzion/ddd/domain/annotations/ValueObject.java
+END
+DomainRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/113/tags/version-1.0/src/main/java/org/nthdimenzion/ddd/domain/annotations/DomainRepository.java
+END
+DomainRepositoryImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/113/tags/version-1.0/src/main/java/org/nthdimenzion/ddd/domain/annotations/DomainRepositoryImpl.java
+END
+DomainEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/113/tags/version-1.0/src/main/java/org/nthdimenzion/ddd/domain/annotations/DomainEntity.java
+END
+DomainFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/113/tags/version-1.0/src/main/java/org/nthdimenzion/ddd/domain/annotations/DomainFactory.java
+END
+EventHandlers.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/113/tags/version-1.0/src/main/java/org/nthdimenzion/ddd/domain/annotations/EventHandlers.java
+END
+AggregateRoot.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/113/tags/version-1.0/src/main/java/org/nthdimenzion/ddd/domain/annotations/AggregateRoot.java
+END
+DomainSpecification.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/113/tags/version-1.0/src/main/java/org/nthdimenzion/ddd/domain/annotations/DomainSpecification.java
+END
+Description.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/113/tags/version-1.0/src/main/java/org/nthdimenzion/ddd/domain/annotations/Description.java
+END
+MI.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/113/tags/version-1.0/src/main/java/org/nthdimenzion/ddd/domain/annotations/MI.java
+END
+Role.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/113/tags/version-1.0/src/main/java/org/nthdimenzion/ddd/domain/annotations/Role.java
+END
+DomainPolicy.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/113/tags/version-1.0/src/main/java/org/nthdimenzion/ddd/domain/annotations/DomainPolicy.java
+END
+DomainPolicyImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/113/tags/version-1.0/src/main/java/org/nthdimenzion/ddd/domain/annotations/DomainPolicyImpl.java
+END
+PPT.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/113/tags/version-1.0/src/main/java/org/nthdimenzion/ddd/domain/annotations/PPT.java
+END
+DomainService.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/113/tags/version-1.0/src/main/java/org/nthdimenzion/ddd/domain/annotations/DomainService.java
+END

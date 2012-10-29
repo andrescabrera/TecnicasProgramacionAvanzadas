@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/109/trunk/src/main/java/org/nthdimenzion/object/utils
+END
+UtilValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/43/trunk/src/main/java/org/nthdimenzion/object/utils/UtilValidator.java
+END
+StringUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/99/trunk/src/main/java/org/nthdimenzion/object/utils/StringUtils.java
+END
+IIdGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/45/trunk/src/main/java/org/nthdimenzion/object/utils/IIdGenerator.java
+END
+Constants.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/98/trunk/src/main/java/org/nthdimenzion/object/utils/Constants.java
+END
+UtilMisc.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/109/trunk/src/main/java/org/nthdimenzion/object/utils/UtilMisc.java
+END
+EqualsFacilitator.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/100/trunk/src/main/java/org/nthdimenzion/object/utils/EqualsFacilitator.java
+END
+InMemoryIdGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/45/trunk/src/main/java/org/nthdimenzion/object/utils/InMemoryIdGenerator.java
+END

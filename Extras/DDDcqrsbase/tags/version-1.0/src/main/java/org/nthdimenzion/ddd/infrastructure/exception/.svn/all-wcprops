@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/113/tags/version-1.0/src/main/java/org/nthdimenzion/ddd/infrastructure/exception
+END
+IErrorMessageLocator.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/113/tags/version-1.0/src/main/java/org/nthdimenzion/ddd/infrastructure/exception/IErrorMessageLocator.java
+END
+IErrorDetailsRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/113/tags/version-1.0/src/main/java/org/nthdimenzion/ddd/infrastructure/exception/IErrorDetailsRepository.java
+END
+IErrorRecorder.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/113/tags/version-1.0/src/main/java/org/nthdimenzion/ddd/infrastructure/exception/IErrorRecorder.java
+END
+ErrorDetails.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/113/tags/version-1.0/src/main/java/org/nthdimenzion/ddd/infrastructure/exception/ErrorDetails.java
+END
+ErrorMessageLocator.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/113/tags/version-1.0/src/main/java/org/nthdimenzion/ddd/infrastructure/exception/ErrorMessageLocator.java
+END
+IBaseException.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/113/tags/version-1.0/src/main/java/org/nthdimenzion/ddd/infrastructure/exception/IBaseException.java
+END
+OperationFailed.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/113/tags/version-1.0/src/main/java/org/nthdimenzion/ddd/infrastructure/exception/OperationFailed.java
+END
+ExceptionListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/113/tags/version-1.0/src/main/java/org/nthdimenzion/ddd/infrastructure/exception/ExceptionListener.java
+END
+DisplayableException.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/113/tags/version-1.0/src/main/java/org/nthdimenzion/ddd/infrastructure/exception/DisplayableException.java
+END
+CommandValidationFailed.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/113/tags/version-1.0/src/main/java/org/nthdimenzion/ddd/infrastructure/exception/CommandValidationFailed.java
+END

@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/135/branches/multitenant/trunk/src/main/java/com/librarymanagement/domain
+END
+BookLendingFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/111/branches/multitenant/trunk/src/main/java/com/librarymanagement/domain/BookLendingFactory.java
+END
+LibraryConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/111/branches/multitenant/trunk/src/main/java/com/librarymanagement/domain/LibraryConfig.java
+END
+IBookRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/111/branches/multitenant/trunk/src/main/java/com/librarymanagement/domain/IBookRepository.java
+END
+IBookLendingRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/123/branches/multitenant/trunk/src/main/java/com/librarymanagement/domain/IBookLendingRepository.java
+END
+PersonRole.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/111/branches/multitenant/trunk/src/main/java/com/librarymanagement/domain/PersonRole.java
+END
+Member.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/135/branches/multitenant/trunk/src/main/java/com/librarymanagement/domain/Member.java
+END
+BookLending.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/123/branches/multitenant/trunk/src/main/java/com/librarymanagement/domain/BookLending.java
+END
+Book.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/135/branches/multitenant/trunk/src/main/java/com/librarymanagement/domain/Book.java
+END
+Person.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/111/branches/multitenant/trunk/src/main/java/com/librarymanagement/domain/Person.java
+END
+BookLendingId.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/111/branches/multitenant/trunk/src/main/java/com/librarymanagement/domain/BookLendingId.java
+END
+BookId.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/111/branches/multitenant/trunk/src/main/java/com/librarymanagement/domain/BookId.java
+END
+BookBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/111/branches/multitenant/trunk/src/main/java/com/librarymanagement/domain/BookBuilder.java
+END
+MemberBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/111/branches/multitenant/trunk/src/main/java/com/librarymanagement/domain/MemberBuilder.java
+END

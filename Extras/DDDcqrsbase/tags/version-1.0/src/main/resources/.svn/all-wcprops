@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/113/tags/version-1.0/src/main/resources
+END
+queryContext.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/113/tags/version-1.0/src/main/resources/queryContext.xml
+END
+MessageResources.properties
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/113/tags/version-1.0/src/main/resources/MessageResources.properties
+END
+integrationContext.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/113/tags/version-1.0/src/main/resources/integrationContext.xml
+END
+import.sql
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/113/tags/version-1.0/src/main/resources/import.sql
+END
+applicationContext.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/113/tags/version-1.0/src/main/resources/applicationContext.xml
+END
+common.sql
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/113/tags/version-1.0/src/main/resources/common.sql
+END
+databaseContext.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/113/tags/version-1.0/src/main/resources/databaseContext.xml
+END
+librarymanagement.sql
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/113/tags/version-1.0/src/main/resources/librarymanagement.sql
+END

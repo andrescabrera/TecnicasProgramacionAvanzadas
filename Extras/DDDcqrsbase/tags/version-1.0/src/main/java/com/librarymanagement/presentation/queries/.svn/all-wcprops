@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/113/tags/version-1.0/src/main/java/com/librarymanagement/presentation/queries
+END
+BookQueries.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/113/tags/version-1.0/src/main/java/com/librarymanagement/presentation/queries/BookQueries.java
+END
+ILibraryFinder.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/113/tags/version-1.0/src/main/java/com/librarymanagement/presentation/queries/ILibraryFinder.java
+END

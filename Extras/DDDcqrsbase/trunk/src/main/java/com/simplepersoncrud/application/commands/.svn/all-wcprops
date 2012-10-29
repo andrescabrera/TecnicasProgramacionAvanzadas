@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/109/trunk/src/main/java/com/simplepersoncrud/application/commands
+END
+UnRegisterCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/103/trunk/src/main/java/com/simplepersoncrud/application/commands/UnRegisterCommand.java
+END
+PersonRegistrationCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/106/trunk/src/main/java/com/simplepersoncrud/application/commands/PersonRegistrationCommand.java
+END
+PersonNameChangeCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/106/trunk/src/main/java/com/simplepersoncrud/application/commands/PersonNameChangeCommand.java
+END

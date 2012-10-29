@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/80/trunk/src/main/java/com/simplepersoncrud/application/services
+END
+PersonService.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/80/trunk/src/main/java/com/simplepersoncrud/application/services/PersonService.java
+END
+IPersonService.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/80/trunk/src/main/java/com/simplepersoncrud/application/services/IPersonService.java
+END

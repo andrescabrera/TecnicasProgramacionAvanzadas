@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/113/tags/version-1.0/src/main/webapp/com/librarymanagement
+END
+RegisterMember.zul
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/113/tags/version-1.0/src/main/webapp/com/librarymanagement/RegisterMember.zul
+END
+UnRegisterMembers.zul
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/113/tags/version-1.0/src/main/webapp/com/librarymanagement/UnRegisterMembers.zul
+END
+transferBook.zul
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/113/tags/version-1.0/src/main/webapp/com/librarymanagement/transferBook.zul
+END
+bookTransaction.zul
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/113/tags/version-1.0/src/main/webapp/com/librarymanagement/bookTransaction.zul
+END
+bookList.zul
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/113/tags/version-1.0/src/main/webapp/com/librarymanagement/bookList.zul
+END
+findBookForTransaction.zul
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/113/tags/version-1.0/src/main/webapp/com/librarymanagement/findBookForTransaction.zul
+END
+libraryPanel.zul
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/113/tags/version-1.0/src/main/webapp/com/librarymanagement/libraryPanel.zul
+END
+member.zul
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/113/tags/version-1.0/src/main/webapp/com/librarymanagement/member.zul
+END
+findMemberForBookTransfer.zul
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/113/tags/version-1.0/src/main/webapp/com/librarymanagement/findMemberForBookTransfer.zul
+END
+bookPanel.zul
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/113/tags/version-1.0/src/main/webapp/com/librarymanagement/bookPanel.zul
+END
+registerBook.zul
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/113/tags/version-1.0/src/main/webapp/com/librarymanagement/registerBook.zul
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/113/tags/version-1.0/src/main/java/org/nthdimenzion/ddd/infrastructure/hibernate
+END
+AutoColumnsPopulator.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/113/tags/version-1.0/src/main/java/org/nthdimenzion/ddd/infrastructure/hibernate/AutoColumnsPopulator.java
+END
+CustomNamingStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/113/tags/version-1.0/src/main/java/org/nthdimenzion/ddd/infrastructure/hibernate/CustomNamingStrategy.java
+END
+GenericHibernateRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/113/tags/version-1.0/src/main/java/org/nthdimenzion/ddd/infrastructure/hibernate/GenericHibernateRepository.java
+END

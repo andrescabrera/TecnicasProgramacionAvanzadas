@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/111/branches/multitenant/trunk/src/main/java/org/nthdimenzion/ddd/domain/sharedkernel
+END
+MyBatisJodaDateTimeType.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/111/branches/multitenant/trunk/src/main/java/org/nthdimenzion/ddd/domain/sharedkernel/MyBatisJodaDateTimeType.java
+END
+MoneyType.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/111/branches/multitenant/trunk/src/main/java/org/nthdimenzion/ddd/domain/sharedkernel/MoneyType.java
+END

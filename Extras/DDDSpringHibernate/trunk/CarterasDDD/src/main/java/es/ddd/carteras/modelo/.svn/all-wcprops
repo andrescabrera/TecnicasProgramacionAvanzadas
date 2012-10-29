@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/3/trunk/CarterasDDD/src/main/java/es/ddd/carteras/modelo
+END
+EntidadFinanciera.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/3/trunk/CarterasDDD/src/main/java/es/ddd/carteras/modelo/EntidadFinanciera.java
+END
+ServicioActualizacionMovimientos.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/3/trunk/CarterasDDD/src/main/java/es/ddd/carteras/modelo/ServicioActualizacionMovimientos.java
+END
+ServicioActualizacionCotizaciones.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/3/trunk/CarterasDDD/src/main/java/es/ddd/carteras/modelo/ServicioActualizacionCotizaciones.java
+END
+RepositorioDeEntidadesFinancieras.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/3/trunk/CarterasDDD/src/main/java/es/ddd/carteras/modelo/RepositorioDeEntidadesFinancieras.java
+END
+RepositorioDeAcciones.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/3/trunk/CarterasDDD/src/main/java/es/ddd/carteras/modelo/RepositorioDeAcciones.java
+END
+Accion.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/3/trunk/CarterasDDD/src/main/java/es/ddd/carteras/modelo/Accion.java
+END
+RepositorioDeCarteras.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/3/trunk/CarterasDDD/src/main/java/es/ddd/carteras/modelo/RepositorioDeCarteras.java
+END
+Repositorio.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/3/trunk/CarterasDDD/src/main/java/es/ddd/carteras/modelo/Repositorio.java
+END
+Cartera.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/3/trunk/CarterasDDD/src/main/java/es/ddd/carteras/modelo/Cartera.java
+END
+Inversion.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/3/trunk/CarterasDDD/src/main/java/es/ddd/carteras/modelo/Inversion.java
+END

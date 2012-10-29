@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/113/tags/version-1.0/src/main/java/com/librarymanagement/domain
+END
+BookLendingFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/113/tags/version-1.0/src/main/java/com/librarymanagement/domain/BookLendingFactory.java
+END
+LibraryConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/113/tags/version-1.0/src/main/java/com/librarymanagement/domain/LibraryConfig.java
+END
+IBookRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/113/tags/version-1.0/src/main/java/com/librarymanagement/domain/IBookRepository.java
+END
+IRentable.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/113/tags/version-1.0/src/main/java/com/librarymanagement/domain/IRentable.java
+END
+IBookLendingRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/113/tags/version-1.0/src/main/java/com/librarymanagement/domain/IBookLendingRepository.java
+END
+PersonRole.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/113/tags/version-1.0/src/main/java/com/librarymanagement/domain/PersonRole.java
+END
+Member.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/113/tags/version-1.0/src/main/java/com/librarymanagement/domain/Member.java
+END
+BookLending.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/113/tags/version-1.0/src/main/java/com/librarymanagement/domain/BookLending.java
+END
+Book.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/113/tags/version-1.0/src/main/java/com/librarymanagement/domain/Book.java
+END
+Person.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/113/tags/version-1.0/src/main/java/com/librarymanagement/domain/Person.java
+END
+BookLendingId.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/113/tags/version-1.0/src/main/java/com/librarymanagement/domain/BookLendingId.java
+END
+BookId.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/113/tags/version-1.0/src/main/java/com/librarymanagement/domain/BookId.java
+END
+BookBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/113/tags/version-1.0/src/main/java/com/librarymanagement/domain/BookBuilder.java
+END
+MemberBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/113/tags/version-1.0/src/main/java/com/librarymanagement/domain/MemberBuilder.java
+END

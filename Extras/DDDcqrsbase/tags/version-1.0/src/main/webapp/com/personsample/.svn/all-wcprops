@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/113/tags/version-1.0/src/main/webapp/com/personsample
+END
+personPanel.zul
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/113/tags/version-1.0/src/main/webapp/com/personsample/personPanel.zul
+END
+RegisterPerson.zul
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/113/tags/version-1.0/src/main/webapp/com/personsample/RegisterPerson.zul
+END
+UnRegisterPeople.zul
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/113/tags/version-1.0/src/main/webapp/com/personsample/UnRegisterPeople.zul
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/113/tags/version-1.0/src/main/resources/org/presentation
+END
+librarymanagementviews.properties
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/113/tags/version-1.0/src/main/resources/org/presentation/librarymanagementviews.properties
+END
+simplepersoncrudviews.properties
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/113/tags/version-1.0/src/main/resources/org/presentation/simplepersoncrudviews.properties
+END
+commonviews.properties
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/113/tags/version-1.0/src/main/resources/org/presentation/commonviews.properties
+END
+presentationBeanContext.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/113/tags/version-1.0/src/main/resources/org/presentation/presentationBeanContext.xml
+END

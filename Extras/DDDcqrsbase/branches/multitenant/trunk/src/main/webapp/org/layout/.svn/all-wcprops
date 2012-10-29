@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/141/branches/multitenant/trunk/src/main/webapp/org/layout
+END
+header.zul
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/139/branches/multitenant/trunk/src/main/webapp/org/layout/header.zul
+END
+menu.zul
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/141/branches/multitenant/trunk/src/main/webapp/org/layout/menu.zul
+END
+taskListingLayout.zul
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/111/branches/multitenant/trunk/src/main/webapp/org/layout/taskListingLayout.zul
+END
+layout.zul
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/139/branches/multitenant/trunk/src/main/webapp/org/layout/layout.zul
+END

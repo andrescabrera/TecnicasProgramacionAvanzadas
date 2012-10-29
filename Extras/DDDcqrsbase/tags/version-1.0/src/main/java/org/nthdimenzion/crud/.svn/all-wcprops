@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/113/tags/version-1.0/src/main/java/org/nthdimenzion/crud
+END
+ICrudEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/113/tags/version-1.0/src/main/java/org/nthdimenzion/crud/ICrudEntity.java
+END
+ICrud.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/113/tags/version-1.0/src/main/java/org/nthdimenzion/crud/ICrud.java
+END
+CrudDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/113/tags/version-1.0/src/main/java/org/nthdimenzion/crud/CrudDao.java
+END

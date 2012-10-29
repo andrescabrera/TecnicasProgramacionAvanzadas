@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/124/trunk/src/main/java/org/nthdimenzion/security/domain
+END
+SecurityPermission.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/100/trunk/src/main/java/org/nthdimenzion/security/domain/SecurityPermission.java
+END
+SecurityGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/57/trunk/src/main/java/org/nthdimenzion/security/domain/SecurityGroup.java
+END
+UserLogin.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/92/trunk/src/main/java/org/nthdimenzion/security/domain/UserLogin.java
+END
+IUserRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/57/trunk/src/main/java/org/nthdimenzion/security/domain/IUserRepository.java
+END
+Credentials.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/100/trunk/src/main/java/org/nthdimenzion/security/domain/Credentials.java
+END
+SecurityGroupId.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/100/trunk/src/main/java/org/nthdimenzion/security/domain/SecurityGroupId.java
+END
+SystemUser.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/124/trunk/src/main/java/org/nthdimenzion/security/domain/SystemUser.java
+END
+UserLoginId.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/100/trunk/src/main/java/org/nthdimenzion/security/domain/UserLoginId.java
+END
+HomePageDetails.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/100/trunk/src/main/java/org/nthdimenzion/security/domain/HomePageDetails.java
+END

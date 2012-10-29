@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/125/branches/multitenant/trunk/src/main/java/org/nthdimenzion/ddd/infrastructure/spring
+END
+ApplicationSetup.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/125/branches/multitenant/trunk/src/main/java/org/nthdimenzion/ddd/infrastructure/spring/ApplicationSetup.java
+END
+IApplicationContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/125/branches/multitenant/trunk/src/main/java/org/nthdimenzion/ddd/infrastructure/spring/IApplicationContext.java
+END

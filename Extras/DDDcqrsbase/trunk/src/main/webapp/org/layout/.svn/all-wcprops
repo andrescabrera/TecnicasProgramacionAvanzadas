@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/125/trunk/src/main/webapp/org/layout
+END
+header.zul
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/125/trunk/src/main/webapp/org/layout/header.zul
+END
+menu.zul
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/125/trunk/src/main/webapp/org/layout/menu.zul
+END
+taskListingLayout.zul
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/99/trunk/src/main/webapp/org/layout/taskListingLayout.zul
+END
+layout.zul
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/85/trunk/src/main/webapp/org/layout/layout.zul
+END

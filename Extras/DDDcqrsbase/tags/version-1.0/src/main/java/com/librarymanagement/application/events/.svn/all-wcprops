@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/113/tags/version-1.0/src/main/java/com/librarymanagement/application/events
+END
+BookIssuedEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/113/tags/version-1.0/src/main/java/com/librarymanagement/application/events/BookIssuedEvent.java
+END
+BookReturnedEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/113/tags/version-1.0/src/main/java/com/librarymanagement/application/events/BookReturnedEvent.java
+END

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/110/trunk/src/main/java/org/nthdimenzion/ddd/infrastructure/exception
+END
+IErrorMessageLocator.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/99/trunk/src/main/java/org/nthdimenzion/ddd/infrastructure/exception/IErrorMessageLocator.java
+END
+IErrorDetailsRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/92/trunk/src/main/java/org/nthdimenzion/ddd/infrastructure/exception/IErrorDetailsRepository.java
+END
+IErrorRecorder.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/93/trunk/src/main/java/org/nthdimenzion/ddd/infrastructure/exception/IErrorRecorder.java
+END
+ErrorDetails.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/110/trunk/src/main/java/org/nthdimenzion/ddd/infrastructure/exception/ErrorDetails.java
+END
+ErrorMessageLocator.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/92/trunk/src/main/java/org/nthdimenzion/ddd/infrastructure/exception/ErrorMessageLocator.java
+END
+IBaseException.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/41/trunk/src/main/java/org/nthdimenzion/ddd/infrastructure/exception/IBaseException.java
+END
+OperationFailed.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/100/trunk/src/main/java/org/nthdimenzion/ddd/infrastructure/exception/OperationFailed.java
+END
+ExceptionListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/53/trunk/src/main/java/org/nthdimenzion/ddd/infrastructure/exception/ExceptionListener.java
+END
+DisplayableException.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/92/trunk/src/main/java/org/nthdimenzion/ddd/infrastructure/exception/DisplayableException.java
+END
+CommandValidationFailed.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/103/trunk/src/main/java/org/nthdimenzion/ddd/infrastructure/exception/CommandValidationFailed.java
+END

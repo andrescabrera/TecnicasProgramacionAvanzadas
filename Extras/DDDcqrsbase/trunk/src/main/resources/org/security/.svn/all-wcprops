@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/100/trunk/src/main/resources/org/security
+END
+securityContext.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/100/trunk/src/main/resources/org/security/securityContext.xml
+END

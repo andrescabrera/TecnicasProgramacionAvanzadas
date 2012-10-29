@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/123/branches/multitenant/trunk/src/main/java/com/librarymanagement/domain/error
+END
+NotEnoughCopiesException.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/111/branches/multitenant/trunk/src/main/java/com/librarymanagement/domain/error/NotEnoughCopiesException.java
+END
+MemberAlreadyBorrowedBookException.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/123/branches/multitenant/trunk/src/main/java/com/librarymanagement/domain/error/MemberAlreadyBorrowedBookException.java
+END

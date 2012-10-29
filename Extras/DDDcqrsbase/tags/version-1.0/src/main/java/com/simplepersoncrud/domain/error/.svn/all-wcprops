@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/113/tags/version-1.0/src/main/java/com/simplepersoncrud/domain/error
+END
+PersonCreationException.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/113/tags/version-1.0/src/main/java/com/simplepersoncrud/domain/error/PersonCreationException.java
+END

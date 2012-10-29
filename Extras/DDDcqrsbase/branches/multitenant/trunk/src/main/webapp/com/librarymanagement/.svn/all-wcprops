@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/142/branches/multitenant/trunk/src/main/webapp/com/librarymanagement
+END
+RegisterMember.zul
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/139/branches/multitenant/trunk/src/main/webapp/com/librarymanagement/RegisterMember.zul
+END
+UnRegisterMembers.zul
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/111/branches/multitenant/trunk/src/main/webapp/com/librarymanagement/UnRegisterMembers.zul
+END
+bookList.zul
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/139/branches/multitenant/trunk/src/main/webapp/com/librarymanagement/bookList.zul
+END
+libraryPanel.zul
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/139/branches/multitenant/trunk/src/main/webapp/com/librarymanagement/libraryPanel.zul
+END
+memberPanel.zul
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/139/branches/multitenant/trunk/src/main/webapp/com/librarymanagement/memberPanel.zul
+END
+findMemberForBookTransfer.zul
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/142/branches/multitenant/trunk/src/main/webapp/com/librarymanagement/findMemberForBookTransfer.zul
+END
+registerBook.zul
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/139/branches/multitenant/trunk/src/main/webapp/com/librarymanagement/registerBook.zul
+END
+membersHoldingBook.zul
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/142/branches/multitenant/trunk/src/main/webapp/com/librarymanagement/membersHoldingBook.zul
+END
+transferBook.zul
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/142/branches/multitenant/trunk/src/main/webapp/com/librarymanagement/transferBook.zul
+END
+bookTransaction.zul
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/130/branches/multitenant/trunk/src/main/webapp/com/librarymanagement/bookTransaction.zul
+END
+unregisterMember.zul
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/139/branches/multitenant/trunk/src/main/webapp/com/librarymanagement/unregisterMember.zul
+END
+findBookForTransaction.zul
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/139/branches/multitenant/trunk/src/main/webapp/com/librarymanagement/findBookForTransaction.zul
+END
+member.zul
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/139/branches/multitenant/trunk/src/main/webapp/com/librarymanagement/member.zul
+END
+bookPanel.zul
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/139/branches/multitenant/trunk/src/main/webapp/com/librarymanagement/bookPanel.zul
+END
+bookListForMember.zul
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/141/branches/multitenant/trunk/src/main/webapp/com/librarymanagement/bookListForMember.zul
+END

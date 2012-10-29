@@ -1,0 +1,13 @@
+K 10
+svn:ignore
+V 63
+*.classpath
+*.ids
+*.iml
+*.ipr
+*.iws
+*.project
+.settings
+target
+
+END

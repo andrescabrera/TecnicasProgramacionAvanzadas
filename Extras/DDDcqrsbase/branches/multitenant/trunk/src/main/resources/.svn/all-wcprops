@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/141/branches/multitenant/trunk/src/main/resources
+END
+queryContext.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/125/branches/multitenant/trunk/src/main/resources/queryContext.xml
+END
+tenantsetup.sql
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/125/branches/multitenant/trunk/src/main/resources/tenantsetup.sql
+END
+MessageResources.properties
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/111/branches/multitenant/trunk/src/main/resources/MessageResources.properties
+END
+integrationContext.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/111/branches/multitenant/trunk/src/main/resources/integrationContext.xml
+END
+applicationContext.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/115/branches/multitenant/trunk/src/main/resources/applicationContext.xml
+END
+common.sql
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/125/branches/multitenant/trunk/src/main/resources/common.sql
+END
+databaseContext.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/130/branches/multitenant/trunk/src/main/resources/databaseContext.xml
+END
+librarymanagement.sql
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/141/branches/multitenant/trunk/src/main/resources/librarymanagement.sql
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/110/trunk/src/main/java/com/simplepersoncrud/domain
+END
+PersonId.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/103/trunk/src/main/java/com/simplepersoncrud/domain/PersonId.java
+END
+IPersonRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/110/trunk/src/main/java/com/simplepersoncrud/domain/IPersonRepository.java
+END
+SimplePerson.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/103/trunk/src/main/java/com/simplepersoncrud/domain/SimplePerson.java
+END
+PersonFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/100/trunk/src/main/java/com/simplepersoncrud/domain/PersonFactory.java
+END

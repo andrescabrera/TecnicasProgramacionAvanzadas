@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/123/branches/multitenant/trunk/src/main/java/com/librarymanagement/infrastructure/repositories/hibernate
+END
+BookLendingRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/123/branches/multitenant/trunk/src/main/java/com/librarymanagement/infrastructure/repositories/hibernate/BookLendingRepository.java
+END
+BookRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/111/branches/multitenant/trunk/src/main/java/com/librarymanagement/infrastructure/repositories/hibernate/BookRepository.java
+END

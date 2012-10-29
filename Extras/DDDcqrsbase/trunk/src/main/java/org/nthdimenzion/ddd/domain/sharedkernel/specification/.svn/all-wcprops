@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/90/trunk/src/main/java/org/nthdimenzion/ddd/domain/sharedkernel/specification
+END
+OrSpecification.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/90/trunk/src/main/java/org/nthdimenzion/ddd/domain/sharedkernel/specification/OrSpecification.java
+END
+NotSpecification.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/90/trunk/src/main/java/org/nthdimenzion/ddd/domain/sharedkernel/specification/NotSpecification.java
+END
+ConjunctionSpecification.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/90/trunk/src/main/java/org/nthdimenzion/ddd/domain/sharedkernel/specification/ConjunctionSpecification.java
+END
+CompositeSpecification.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/90/trunk/src/main/java/org/nthdimenzion/ddd/domain/sharedkernel/specification/CompositeSpecification.java
+END
+AndSpecification.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/90/trunk/src/main/java/org/nthdimenzion/ddd/domain/sharedkernel/specification/AndSpecification.java
+END
+ISpecification.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/90/trunk/src/main/java/org/nthdimenzion/ddd/domain/sharedkernel/specification/ISpecification.java
+END
+DisjunctionSpecification.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/90/trunk/src/main/java/org/nthdimenzion/ddd/domain/sharedkernel/specification/DisjunctionSpecification.java
+END

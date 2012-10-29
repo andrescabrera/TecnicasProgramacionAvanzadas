@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/113/tags/version-1.0/src/main/java/org/nthdimenzion/ddd/domain
+END
+BaseAggregateRoot.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/113/tags/version-1.0/src/main/java/org/nthdimenzion/ddd/domain/BaseAggregateRoot.java
+END
+INamed.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/113/tags/version-1.0/src/main/java/org/nthdimenzion/ddd/domain/INamed.java
+END
+IDomainEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/113/tags/version-1.0/src/main/java/org/nthdimenzion/ddd/domain/IDomainEvent.java
+END
+IdGeneratingArcheType.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/113/tags/version-1.0/src/main/java/org/nthdimenzion/ddd/domain/IdGeneratingArcheType.java
+END
+LifeCycle.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/113/tags/version-1.0/src/main/java/org/nthdimenzion/ddd/domain/LifeCycle.java
+END
+BaseArchetype.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/113/tags/version-1.0/src/main/java/org/nthdimenzion/ddd/domain/BaseArchetype.java
+END
+Interval.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/113/tags/version-1.0/src/main/java/org/nthdimenzion/ddd/domain/Interval.java
+END
+IPersistable.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/113/tags/version-1.0/src/main/java/org/nthdimenzion/ddd/domain/IPersistable.java
+END
+AbstractDomainFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/113/tags/version-1.0/src/main/java/org/nthdimenzion/ddd/domain/AbstractDomainFactory.java
+END
+IEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/113/tags/version-1.0/src/main/java/org/nthdimenzion/ddd/domain/IEvent.java
+END

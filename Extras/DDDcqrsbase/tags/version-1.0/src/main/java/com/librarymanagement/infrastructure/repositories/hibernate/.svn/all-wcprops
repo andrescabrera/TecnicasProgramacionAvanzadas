@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/113/tags/version-1.0/src/main/java/com/librarymanagement/infrastructure/repositories/hibernate
+END
+BookLendingRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/113/tags/version-1.0/src/main/java/com/librarymanagement/infrastructure/repositories/hibernate/BookLendingRepository.java
+END
+BookRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/113/tags/version-1.0/src/main/java/com/librarymanagement/infrastructure/repositories/hibernate/BookRepository.java
+END
